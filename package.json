@@ -1,0 +1,8 @@
+{
+  "name": "andrewnicols.github.io",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "index.js",
+  "author": "Andrew Nicols <andrew@nicols.co.uk>",
+  "license": "MIT"
+}

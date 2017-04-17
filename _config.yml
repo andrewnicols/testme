@@ -1,0 +1,18 @@
+title: Andrew Nicols
+email: andrew@nicols.co.uk
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://andrewrn.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: _andrewrn_
+github_username:  andrewnicols
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  load_paths:
+    - _sass
+    - bower_components
