@@ -15,4 +15,4 @@ exclude:
 sass:
   load_paths:
     - _sass
-    - bower_components
+    - node_modules
